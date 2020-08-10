@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-<!--
-**tahanzania/tahanzania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Taha Dharamsi (@tahanzania) you can 
 
-Here are some ideas to get you started:
+🔭 I’m currently working on 
+<ul>
+  <li> Growth for a Hospital Management Saas </li>
+  <li> Building a Cold Email Sales + Marketing Saas </li>
+  <li> Growing my <a href="https://www.mubzmakes.com"> E-commerce store </a> </li>
+  <li> Building a high authority site in the martech Niche - monetization by Ad Products</li>
+  <li> Full Time Marketing Specialist at Postmedia </li>
+</ul>  
+  
+🌱 I’m currently learning/improving my 
+<ul>
+  <li> node.js </li>
+   <li>  kubernetes </li>
+     <li> Mongo DB </li>
+     <li> and API integrations  (mostly using various Google Cloud API's that are focused on identity, privacy, natural language processing) </li>
+  <li> I'm also finishing my Degree 😂 </li>
+</ul> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on privacy, web advertising, media and publishing. 
+
+🤔 I’m looking for help with DevOps (I've been using Iaas instead of Paas for hosting my apps)
+
+💬 Ask me about growth hacking, marketing, media, publishing, adops, Saas
+
+📫 How to reach me: <a href="https://www.tahadharamsi.com">My Website</a> or email firstname.lastname+github@gmail.com or<a href="https://www.twitter.com/tahanzania">DM on Twitter</a>   
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I've climbed Mount Kilimanjaro
