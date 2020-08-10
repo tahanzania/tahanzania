@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Taha Dharamsi (@tahanzania) you can 
+<a href="https://www.tahadharamsi.com">Taha Dharamsi</a> here👋. I’m passionate about product marketing🔄, growth marketing📈, Saas 👩‍💻, ad-operations + mar-tech📲, media and digital all-rounder in Toronto 👩‍💻
 
 🔭 I’m currently working on 
 <ul>
