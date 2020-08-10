@@ -26,7 +26,7 @@
 
 💬 Ask me about growth hacking, marketing, media, publishing, adops, Saas
 
-📫 How to reach me: <a href="https://www.tahadharamsi.com">My Website</a> or email firstname.lastname+github@gmail.com or<a href="https://www.twitter.com/tahanzania">DM on Twitter</a>   
+📫 How to reach me: <a href="https://www.tahadharamsi.com">My Website</a> or email firstname.lastname+github@gmail.com or <a href="https://www.twitter.com/tahanzania">DM on  Twitter</a>   
 
 😄 Pronouns: He/Him
 
