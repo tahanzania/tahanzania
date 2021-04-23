@@ -1,15 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.tahadharamsi.com">Taha Dharamsi</a> here👋. I’m passionate about product marketing🔄, growth marketing📈, Saas 👩‍💻, ad-operations + mar-tech📲, media and digital all-rounder in Toronto 👩‍💻
-
-🔭 I’m currently working on 
-<ul>
-  <li> Growth for a Hospital Management Saas </li>
-  <li> Building a Cold Email Sales + Marketing Saas </li>
-  <li> Growing my <a href="https://www.mubzmakes.com"> E-commerce store </a> </li>
-  <li> Building a high authority site in the martech Niche - monetization by Ad Products</li>
-  <li> Full Time Marketing Specialist at Postmedia </li>
-</ul>  
+<a href="https://www.tahadharamsi.com">Taha Dharamsi</a> here👋.
   
 🌱 I’m currently learning/improving my 
 <ul>
